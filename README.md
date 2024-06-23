@@ -24,9 +24,11 @@ Mernstay Features:
 8. Responsive Design: The platform features a responsive design, ensuring a consistent and user-friendly experience across desktop and mobile devices.
 
 DEMO 1: Basic features
-https://github.com/Murali2409/Mernstay/assets/98866351/fcb5789d-b52a-46e6-ac3d-5e5893f1e8d0
+
+https://github.com/Murali2409/Mernstay/assets/98866351/a163b60c-bbed-4d1e-b14f-99b288142470
 
 Demo 2: User login, booking and payment
+
 https://github.com/Murali2409/Mernstay/assets/98866351/a0bc60af-db0d-45f7-a66e-39e6e996ed03
 
 
